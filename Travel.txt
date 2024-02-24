@@ -1,0 +1,6 @@
+Blusa
+casaco
+bolsa
+sapato
+calça
+vestido
