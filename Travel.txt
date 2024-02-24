@@ -4,3 +4,6 @@ bolsa
 sapato
 calça
 vestido
+chapeu
+_________ PICNIC
+PAO 
